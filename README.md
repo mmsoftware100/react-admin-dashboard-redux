@@ -1,0 +1,1 @@
+# React Admin Panel using Minimal Template and Redux Toolkit
